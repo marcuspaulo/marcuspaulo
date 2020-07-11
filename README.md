@@ -1,6 +1,8 @@
 ### Hi there, my name is Marcus Paulo and I'm a software Developer. 👋
 
-https://img.shields.io/badge/-Marcus%20Paulo-18186f?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcuspaulo/
+[![Linkedin Badge](https://img.shields.io/badge/-Marcus%20Paulo-18186f?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcuspaulo/)](https://www.linkedin.com/in/marcuspaulo/) 
+
+
 
 - 🔭 I’m currently working on BBTS
 - 🌱 I’m currently learning Quarkus, Angular
