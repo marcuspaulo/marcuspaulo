@@ -5,6 +5,31 @@
 
 ## :blue_book: Articles
 
+### Tutorial: Disponibilizando uma aplicação Quarkus no Kubernetes utilizando o Minikube e/ou DockerHub
+
+Dev to:
+https://lnkd.in/eUr7UeE
+
+Medium:
+https://lnkd.in/eukK6PQ
+
+Linkedin
+https://lnkd.in/eseYzAE
+
+Quem puder dê um like e compartilhe, muito obrigado.
+
+
+### English version
+Tutorial: Publish a Quarkus application in Kubernetes, Minikube and Dockerhub
+
+Dev. to: https://lnkd.in/eqv4-qH
+
+Medium: https://lnkd.in/eaezdEt
+
+Linkedin: https://lnkd.in/eMhTze5
+
+I hope that you enjoy this tutorial. Thanks for your attention. Please like and share this post. See you soon.
+
 ### *Tutorial: Quarkus do Zero até o Deploy no Heroku, utilizando Quarkus Java + REST + CDI + Panache, Hibernate com Postgres + Postman*
  - [Medium](https://medium.com/@marcus.paulo/tutorial-quarkus-do-zero-at%C3%A9-o-deploy-no-heroku-utilizando-quarkus-java-rest-cdi-panache-8d702caf451f)
  - [Linkedin](https://www.linkedin.com/post/edit/6663592212456185856/)
