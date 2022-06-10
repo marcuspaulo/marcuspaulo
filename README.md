@@ -43,19 +43,8 @@ I hope that you enjoy this tutorial. Thanks for your attention. Please like and 
  - [Medium](https://medium.com/@marcus.paulo/tutorial-quarkus-simplificando-o-hibernate-utilizando-panache-criando-uma-aplica%C3%A7%C3%A3o-simples-393134a58073?sk=1046041d2ca00fd384150de421d7a4d2)
 
 ## :sunglasses: About me!
-- 🔭 I’m currently working on BBTS
-- 🌱 I’m currently learning Quarkus, Angular
+- 🔭 I’m currently working on Adentis
+- 🌱 I’m currently learning Quarkus, Spring Boot, Kubernetes, Angular. 
 <!--
 **marcuspaulo/marcuspaulo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on BBTS
-- 🌱 I’m currently learning Quarkus, Angular
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
