@@ -2,6 +2,26 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-Marcus%20Paulo-18186f?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcuspaulo/)](https://www.linkedin.com/in/marcuspaulo/) 
 
+<h1 style="text-align: center;">
+   <b>Awesome Quarkus</b>
+</h1>
+
+<h4 style="text-align: center;">
+   <font size="2"> 
+    A curated list of awesome things about Quarkus - Supersonic Subatomic Java ecosystem.
+  </font>
+</h4>
+
+<h4 style="text-align: center;">
+   <font size="2"> 
+    Uma lista com curadoria itens relacionados ao ecossistema Quarkus - Supersonic Subatomic Java.
+  </font>
+</h4>
+
+https://github.com/marcuspaulo/awesome-quarkus/blob/main/readme.md
+
+<br/><br/>
+
 
 ## :blue_book: Articles
 
