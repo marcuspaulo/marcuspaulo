@@ -23,6 +23,9 @@ https://github.com/marcuspaulo/awesome-quarkus/blob/main/readme.md
 <br/><br/>
 
 
+[![Marcus Paulo github stats](https://github-readme-stats.vercel.app/api?username=marcuspaulo&show_icons=true&count_private=true&include_all_commits=true&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ## :blue_book: Articles
 
 ### Tutorial: Disponibilizando uma aplicação Quarkus no Kubernetes utilizando o Minikube e/ou DockerHub
